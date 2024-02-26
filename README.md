@@ -36,5 +36,5 @@ Graph 4 - Events by Location
 
 Use the dropdown, date range selector, and location filter to explore event data.
 
-Additional Notes
+### Additional Notes
 Make sure PostgreSQL server is running and accessible.
